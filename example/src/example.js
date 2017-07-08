@@ -6,7 +6,7 @@ var App = React.createClass({
 	render () {
 		return (
 			<div>
-				<YoutubeVideo id='blFCMpd6AG4' allowfullscreen='no'/>
+				<YoutubeVideo id='blFCMpd6AG4'/>
 			</div>
 		);
 	}

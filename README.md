@@ -35,7 +35,15 @@ __EXPLAIN USAGE HERE__
 ```
 var YoutubeVideo = require('react-youtube-video');
 
-<YoutubeVideo>Example</YoutubeVideo>
+var App = React.createClass({
+	render () {
+		return (
+			<div>
+				<YoutubeVideo id='blFCMpd6AG4'/>
+			</div>
+		);
+	}
+});
 ```
 
 ### Properties
