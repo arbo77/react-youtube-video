@@ -1,0 +1,29 @@
+{
+  "name": "react-youtube-video",
+  "version": "0.0.0",
+  "description": "YoutubeVideo",
+  "main": "dist/react-youtube-video.min.js",
+  "homepage": "https://github.com/arbo77/react-youtube-video",
+  "authors": [
+    "Ari"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
